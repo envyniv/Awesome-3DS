@@ -1,6 +1,7 @@
 #+title: Awesome Nintendo 3DS
-#+EXPORT_FILE_NAME: README.html
-/List of great things for Nintendo 3DS. It tries to contain pointers to all the most important, practical and cool things./
+#+EXPORT_FILE_NAME: index.html
+#+OPTIONS: author:nil num:nil
+#+subtitle: /List of great things for Nintendo 3DS. It tries to contain pointers to all the most important, practical and cool things./
 
 * Media
 ** Music
