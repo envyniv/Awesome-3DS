@@ -1,0 +1,88 @@
+#+title: Awesome Nintendo 3DS
+#+EXPORT_FILE_NAME: README.html
+/List of great things for Nintendo 3DS. It tries to contain pointers to all the most important, practical and cool things./
+
+* Media
+** Music
+*** [[https://github.com/oreo639/LimePlayer3DS][LimePlayer3DS]]
+3ds version of LimePlayer, Plays Mp3, Wav, Flac, Midi, Xmi, Mus, Hmi, Hmp, Ogg vorbis, and Opus music (alpha version) -
+*** [[https://github.com/Hayleia/ctrmus/releases][MadCitrus]]
+Can play PCM, WAV, AIFF, FLAC, Opus, Vorbis, MP3, FFMPEG format music. Improved version of ctrmus.
+*** [[https://github.com/deltabeard/ctrmus/releases][ctrmus - Another 3DS Music Player]]
+Plays music in PCM WAV, AIFF, FLAC, Opus, Vorbis and MP3 formats.
+*** [[https://github.com/tesnos/tangerine][tangerine]]
+Can play music in wav, flac, and mp3 format
+** Video
+
+*** [[https://github.com/windows-server-2003/ThirdTube][ThirdTube]]
+Unofficial YouTube client app. -
+*** [[https://github.com/FreakinSoftMania/ThirdTube-NL][ThirdTube-NL]]
+Dutch translation of Thirdtube
+*** [[https://github.com/Frocat64/ThirdTube-DE][ThirdTube-DE]]
+German translation of Thirdtube
+*** [[https://github.com/cooolgamer/ThirdTube-FR][ThirdTube-FR]]
+French translation of Thirdtube
+*** [[https://github.com/JustSofter/ThirdTube-ES][ThirdTube-ES]]
+Spanish translation of Thirdtube
+*** [[https://github.com/Core-2-Extreme/Video_player_for_3DS][Video_player_for_3DS]]
+** Streaming
+*** TO 3ds
+**** [[https://github.com/zoeyjodon/moonlight-N3DS][Moonlight]] :new:
+Gamestream client for the New 3DS 
+*** FROM 3ds
+**** [[https://github.com/RattletraPM/Snickerstream][Snickerstream]]
+Unified NTR and HzMod streaming client for the 3DS
+** Reading
+Is there nothing at the moment?
+* Emulators
+** NES
+*** [[https://github.com/bubble2k16/emus3ds][emus3ds]]
+Nintendo Entertainment System(NES,Famicom in Japan, Hyundai Comboy in Korea) emulator
+
+* Games
+This section will of course only contain homebrew games not available on the Universal Updater
+** [[https://github.com/Team8Alpha/smo3ds][Super Mario Odyssey 3ds Demake]] :deprecated:open:anti_feature:
+
+* Libraries
+** [[https://github.com/XorTroll/Brew.js][Brew.js]] :javascript:
+C++ high-level Javascript API for Nintendo homebrew
+** [[https://github.com/Symbitic/CTRJS][CTRJS]] :javascript:
+Native Javascript Interpreter for the Nintendo 3DS.
+
+* Store Fronts
+A list of alternative storefronts for the Nintendo 3DS.
+** [[https://github.com/Universal-Team/Universal-Updater][Universal Updater]]
+** hShop
+** Ghost eShop
+
+* Game Engines
+** [[https://github.com/SeleDreams/godot-2-3ds][Godot 2.x]] :godot_2:open:
+
+** [[https://github.com/SeleDreams/godot-4-3ds][Godot 4.x]] :godot_4:open:
+** Unity for 3ds
+We can't point to the binary for obvious reasons, but at least this'll help you look for it ;)
+
+Usually not fit for old3ds, but seems like it can be optimized with very strong tweaks.
+** [[https://github.com/lovebrew/LovePotion][LOVEPotion]]                                                          :open:
+** [[https://www.sixengine.com][SixEngine]]                                                    :proprietary:
+** [[http://smilebasic.com/en/][SmileBasic]]                                        :smilebasic:proprietary:
+Allows the player to make tiny games in BASIC, to play on the 3ds. While not exactly a game engine, but more like a game interpreter, it might still scratch your Game-making itch.
+** RPGMaker FES (+Player!)                                      :proprietary:
+3ds version of RPG Maker FES. while not suited for proper development, this might also scratch your game development itch.
+*** A word of Warning
+To play games, you will need the RPGMaker FES Player!
+** [[https://easyrpg.org/][EasyRPG]] :open:
+While the 3ds only has the player available, you should be able to develop for this target, then pack the files properly, and get a working game. I have not personally tested this so results may vary.
+** CTREngine?                                                    :vapourware:
+Unknown game engine for the 3ds. supposedly used for a Wind Waker demake.
+** [[https://www.gamebrew.org/wiki/Headcannon_Game_Engine_3DS][Headcannon Game Engine]] :deprecated:proprietary:
+HCGE, also known as Headcannon Game Engine, is a multiplatform game engine that can be used to create retro-style 2D games. Supported platforms include Windows, Linux, MacOSX, PSP (CFW), Wii (Homebrew Channel), GP2XWiz, GCWZero, and 3DS (Homebrew Launcher).
+** [[https://github.com/mholtkamp/octave][Octave]] :open:multiplatform:
+* Unistores
+** [[https://db.universal-team.net/][Universal-DB]]
+** [[https://www.minecraft3ds.net/][Minecraft 3ds]]
+Unistore focused on the collection of mods for the New3ds Version of Minecraft.
+* Tools
+** UnistoreServer :open:
+Coming soon!
+
